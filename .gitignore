@@ -1,5 +1,5 @@
-.venv/
 built_index/
+.venv/
+__pycache__/
 *.json
 *.jsonl
-__pycache__/
