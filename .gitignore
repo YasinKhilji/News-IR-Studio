@@ -1,0 +1,5 @@
+.venv/
+built_index/
+*.json
+*.jsonl
+__pycache__/

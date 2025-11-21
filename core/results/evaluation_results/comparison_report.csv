@@ -1,0 +1,11 @@
+Metric,TF-IDF,BM25,Improvement %,Winner
+precision@5,0.0000,0.0000,0.00%,TF-IDF
+recall@5,0.0000,0.0000,0.00%,TF-IDF
+ndcg@5,0.0000,0.0000,0.00%,TF-IDF
+precision@10,0.0000,0.0000,0.00%,TF-IDF
+recall@10,0.0000,0.0000,0.00%,TF-IDF
+ndcg@10,0.0000,0.0000,0.00%,TF-IDF
+precision@20,0.0000,0.0000,0.00%,TF-IDF
+recall@20,0.0000,0.0000,0.00%,TF-IDF
+ndcg@20,0.0000,0.0000,0.00%,TF-IDF
+mrr,0.0000,0.0000,0.00%,TF-IDF
